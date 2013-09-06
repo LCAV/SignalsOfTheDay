@@ -7,4 +7,4 @@ Each signal is described and analyzed in an [ipython notebook](http://ipython.or
 Notebooks
 ---------
 
-* [Floods of the Nile]( )
+* [Floods of the Nile](http://nbviewer.ipython.org/urls/raw.github.com/LCAV/SignalsOfTheDay/master/FloodsOfTheNile.ipynb)
